@@ -14,7 +14,7 @@ This project is a recipe finder application built using **React**. The app allow
 
 Check out the live demo of the app:
 
-[RecipeNest - Find and Favorite Your Best Recipes ](https://your-demo-link-here.com)
+[RecipeNest - Find and Favorite Your Best Recipes ](https://recipenest.netlify.app)
 
 ## Tech Stack
 
